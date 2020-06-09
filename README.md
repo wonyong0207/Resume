@@ -74,5 +74,5 @@ E-mail : ahnwy27@naver.com
 4. 윈도우프로그래밍   
 
 ---
-github address : [wonyoung0207][gitadd]
+github address : [wonyoung][gitadd]
  [gitadd]:http://github.com/wonyoung0207
