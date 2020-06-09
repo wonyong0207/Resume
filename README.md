@@ -1,4 +1,5 @@
 # 이력서만들기
----디
-<img src = 증명 사진.jpg >
+---
+<img src = 증명사진.jpg height =150 width=30>
+
 
